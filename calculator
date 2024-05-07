@@ -1,2 +1,10 @@
 Muhammad Kaleem Rashid
 23-set-033
+
+cout<<a+b<<endl;
+
+cout<<a-b<<endl;
+
+cout<<a*b<<endl;
+
+cout<<a/b<<endl;
